@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="981c5887-9e0d-47a7-8fad-da821d1add8b" name="Changes" comment="">
+    <list default="true" id="981c5887-9e0d-47a7-8fad-da821d1add8b" name="Changes" comment=":zap: Mejora formato fechas">
+      <change afterPath="$PROJECT_DIR$/src/Integrantes/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Integrantes/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Integrantes/Maestro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Integrantes/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Integrantes/Persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674597419301</updated>
     </task>
+    <task id="LOCAL-00001" summary=":zap: Mejora formato fechas">
+      <created>1674602739631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674602739631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":zap: Mejora formato fechas" />
+    <option name="LAST_COMMIT_MESSAGE" value=":zap: Mejora formato fechas" />
   </component>
 </project>
