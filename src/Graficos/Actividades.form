@@ -42,12 +42,12 @@
               </component>
             </children>
           </grid>
-          <component id="1405f" class="javax.swing.JButton" binding="button1" default-binding="true">
+          <component id="1405f" class="javax.swing.JButton" binding="BtnInsertarAct">
             <constraints>
               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Button"/>
+              <text value="Crear"/>
             </properties>
           </component>
         </children>
@@ -86,7 +86,7 @@
                   </grid>
                 </children>
               </grid>
-              <component id="10dd4" class="javax.swing.JTextField" binding="idActText">
+              <component id="10dd4" class="javax.swing.JTextField" binding="textIdAct">
                 <constraints/>
                 <properties>
                   <columns value="20"/>
@@ -108,7 +108,7 @@
                   <text value="Descripción"/>
                 </properties>
               </component>
-              <component id="8aece" class="javax.swing.JTextField" binding="textField3" default-binding="true">
+              <component id="8aece" class="javax.swing.JTextField" binding="textDescAct">
                 <constraints/>
                 <properties>
                   <columns value="20"/>
@@ -130,7 +130,7 @@
                   <text value="Horas"/>
                 </properties>
               </component>
-              <component id="9a961" class="javax.swing.JTextField" binding="textField2" default-binding="true">
+              <component id="9a961" class="javax.swing.JTextField" binding="textHorasAct">
                 <constraints/>
                 <properties>
                   <columns value="20"/>
@@ -151,7 +151,7 @@
                   <text value="Nombre Actividad"/>
                 </properties>
               </component>
-              <component id="171ba" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+              <component id="171ba" class="javax.swing.JTextField" binding="textNombreAct">
                 <constraints/>
                 <properties>
                   <columns value="20"/>
@@ -187,7 +187,7 @@
                   <text value="Tema"/>
                 </properties>
               </component>
-              <component id="75a9c" class="javax.swing.JTextField" binding="textField4" default-binding="true">
+              <component id="75a9c" class="javax.swing.JTextField" binding="textTema">
                 <constraints/>
                 <properties>
                   <columns value="20"/>

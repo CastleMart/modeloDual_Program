@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="981c5887-9e0d-47a7-8fad-da821d1add8b" name="Changes" comment=":lipstick: Formulario Actividades">
-      <change afterPath="$PROJECT_DIR$/src/Graficos/ConexionBD.java" afterDir="false" />
+    <list default="true" id="981c5887-9e0d-47a7-8fad-da821d1add8b" name="Changes" comment=":card_file_box: Conexión Exitosa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeloDual_Program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modeloDual_Program.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graficos/Actividades.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graficos/Actividades.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Graficos/Actividades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graficos/Actividades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graficos/ConexionBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graficos/ConexionBD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Programs/Java/Connector_Java_MySQL/mysql-connector-j-8.0.32.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -130,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674698073247</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=":card_file_box: Conexión Exitosa">
+      <created>1674698932232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674698932232</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,7 +153,8 @@
     <MESSAGE value=":zap: Mejora formato fechas" />
     <MESSAGE value=":sparkles: Creación clases hijas" />
     <MESSAGE value=":lipstick: Formulario Actividades" />
-    <option name="LAST_COMMIT_MESSAGE" value=":lipstick: Formulario Actividades" />
+    <MESSAGE value=":card_file_box: Conexión Exitosa" />
+    <option name="LAST_COMMIT_MESSAGE" value=":card_file_box: Conexión Exitosa" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
