@@ -49,6 +49,7 @@ public class Actividades extends JDialog {
             @Override
             public void actionPerformed(ActionEvent e) {
                     System.out.println("Se precionó el botón.");
+                    ConexionBD c = new ConexionBD();
             }
         });
     }
@@ -63,10 +64,4 @@ public class Actividades extends JDialog {
         dispose();
     }
 
-    public static void main(String[] args) {
-        Actividades dialog = new Actividades();
-        dialog.pack();
-        dialog.setVisible(true);
-        System.exit(0);
-    }
 }

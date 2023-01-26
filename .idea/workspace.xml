@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="981c5887-9e0d-47a7-8fad-da821d1add8b" name="Changes" comment=":sparkles: Creación clases hijas">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graficos/Actividades.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graficos/Actividades.java" afterDir="false" />
+    <list default="true" id="981c5887-9e0d-47a7-8fad-da821d1add8b" name="Changes" comment=":lipstick: Formulario Actividades">
+      <change afterPath="$PROJECT_DIR$/src/Graficos/ConexionBD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeloDual_Program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modeloDual_Program.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graficos/Actividades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graficos/Actividades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +37,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Programs/Java/Connector_Java_MySQL/mysql-connector-j-8.0.32.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.JavaFX"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Actividades">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Actividades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graficos.Actividades" />
       <module name="modeloDual_Program" />
@@ -89,8 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Actividades" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Actividades" />
         <item itemvalue="Application.Alumnos" />
         <item itemvalue="Application.GUI_Program" />
       </list>
@@ -119,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674604508146</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=":lipstick: Formulario Actividades">
+      <created>1674698073247</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674698073247</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +147,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":zap: Mejora formato fechas" />
     <MESSAGE value=":sparkles: Creación clases hijas" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: Creación clases hijas" />
+    <MESSAGE value=":lipstick: Formulario Actividades" />
+    <option name="LAST_COMMIT_MESSAGE" value=":lipstick: Formulario Actividades" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
