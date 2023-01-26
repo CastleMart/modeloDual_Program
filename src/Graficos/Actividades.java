@@ -15,7 +15,7 @@ public class Actividades extends JDialog {
     private JTextField textHorasAct;
     private JTextField textDescAct;
     private JTextField textTema;
-    ConexionBD con = new ConexionBD();
+    private ConexionBD con = new ConexionBD();
 
     private Actividad act;
 
@@ -23,7 +23,7 @@ public class Actividades extends JDialog {
         setContentPane(contentPane);
         setModal(true);
         getRootPane().setDefaultButton(buttonOK);
-        ConexionBD con = new ConexionBD();
+
 
         buttonOK.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
@@ -72,6 +72,9 @@ public class Actividades extends JDialog {
         dispose();
     }
 
+    /**
+     * Método que guarda los datos recogidos en un objeto y los pasa a la base de datos.
+     */
     private void crearActividad(){
         act = new Actividad( Integer.parseInt(textIdAct.getText()) , textNombreAct.getText(), Double.parseDouble(textIdAct.getText()),  textDescAct.getText());
         con.insertarActividad(act, Integer.parseInt(textTema.getText()));

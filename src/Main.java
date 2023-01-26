@@ -9,7 +9,7 @@ public class Main {
         Actividades dialog = new Actividades();
         dialog.pack();
         dialog.setVisible(true);
-
+        //dialog.setVisible(false);
 
 
 
